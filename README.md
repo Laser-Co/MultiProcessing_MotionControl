@@ -1,6 +1,6 @@
 # Multiprocessing Motor Control and Buffer Management System
 
-This project is a multiprocessing system designed to control stepper motors with precision, ensuring they stay within defined buffer limits. It includes calibration, motor control, and real-time adjustments via rotary encoders, with feedback displayed on OLED screens.
+This project is a multiprocessing system designed to control stepper motors in real-time with precision, ensuring they stay within defined buffer limits. It includes calibration, motor control, and real-time adjustments via rotary encoders, with feedback displayed on OLED screens.
 
 ## Features
 
