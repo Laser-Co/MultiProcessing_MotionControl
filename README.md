@@ -1,2 +1,1 @@
-# LaserBath
-MotionControl Robot for the LaserBath performance series
+#MotionControl Robot for the LaserBath performance series
